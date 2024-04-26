@@ -31,7 +31,7 @@ export type Revenue = {
   revenue: number;
 };
 
-export type LatestInvoice = {
+export type   LatestInvoice = {
   id: string;
   name: string;
   image_url: string;
